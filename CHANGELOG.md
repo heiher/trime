@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.3.11.1] - 2026-07-20
+
+### 🚀 Features
+
+- Add ZhengMa table
+
 ## [3.3.11] - 2026-07-01
 
 ### 🐛 Bug Fixes
