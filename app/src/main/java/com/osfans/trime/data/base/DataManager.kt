@@ -31,8 +31,6 @@ object DataManager {
     private const val SCHEMA_LIST_CUSTOM_PATCH = """
       patch:
         schema_list:
-          - schema: luna_pinyin
-          - schema: luna_pinyin_simp
           - schema: zhengma
     """
 
